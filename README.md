@@ -14,7 +14,7 @@
 - Машинное обучение: библиотеки Scikit-learn, XGBoost
 
 ## Программа обучения:
-![-](https://https://github.com/DmitriyTimof/Data-analysts/blob/main/diplom.pdf)
+![-](https://https://github.com/DmitriyTimof/Data-analysts/blob/main/diplom.png)
 
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
